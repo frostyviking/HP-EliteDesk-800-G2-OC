@@ -1,6 +1,15 @@
 ![HP EliteDesk 800 G2 Desktop Mini Business PC](https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c04876268.png)
 
-### Specs:
+# This is not a guide, this is just a tribute.
+These are pointers on how this cool little machine currently runs for me.
+Read up on OpenCore, don't just blind copypasta EFI's, kexts, .plist files, pathces,
+when you find them on the wildweb.
+
+Open, read, put some brain's into it, learn something. You owe it to ALL creators, contributors before you.
+
+
+## Specs:
+- HP EliteDesk 800 65W G2 Desktop Mini PC
 - BIOS: N21 Ver.02.23 04/16/2021
 - CPU: Intel® Core i7-6700 @ 3.40 GHz processor (65 W)
 - GPU: Intel® HD Graphics 530 (2 DisplayPorts + 1 VGA Port)
@@ -10,9 +19,6 @@
 - LAN: Intel® I219M GbE
 - WLAN/BT: BCM94360NG 2.4&5G WiFi Bluetooth 4.0
 - Audio: Realtec ALC221 Audio Codec
-
-### This is not a guide, these are pointers on how it currently runs for me.
-### Read up on OpenCore, learn, hit & miss, have fun. 
 
 ## BIOS Settings
 - Advanced -> Boot Options
@@ -64,7 +70,7 @@
 
 
 
-### Current OS
+## Current OS
 - macOS Big Sur 11.4 (Build 20F71)
 
 ### Bootloader
