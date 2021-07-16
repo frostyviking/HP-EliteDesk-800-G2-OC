@@ -73,7 +73,7 @@ Open, read, put some brain's into it, learn something. You owe it to ALL creator
 ## Current OS
 - macOS Big Sur 11.4 (Build 20F71)
 
-### Bootloader
+## Bootloader
 - OpenCore 0.7.1
 
 ## Working:
