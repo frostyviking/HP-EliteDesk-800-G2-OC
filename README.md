@@ -63,7 +63,13 @@ Open, read, put some brain's into it, learn something. You owe it to ALL creator
   - Configure Option ROM Launch Policy **All UEFI**
 
 - Advanced -> Power Management Options
-  - Everything **Disable**
+  - Runtime Power Management **Enable**
+  - Extended Idle Power States **Enable**
+  - S5 Maximum Power Savings **Disable**
+  - SATA Power Management **Enable**
+  - PCI Express Power Managment **Disable** (if enabled, it will really screw that native BCM M.2 WiFi performance)
+  - Power On from Keyboard Ports **Disable**
+  - Unique Sleep State Blink Rates **Disable** 
 
 - Advanced -> Remote Management Options
   - I have not touched anything in here, running defaults AFAIK..
