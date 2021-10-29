@@ -1,6 +1,7 @@
 ![HP EliteDesk 800 G2 Desktop Mini Business PC](https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c04876268.png)
+## HP EliteDesk 800 G2 Mini
+(will update this when i have migrated to macOS Monterey -im in no hurry)
 
-# This is not a guide, this is just a tribute.
 These are pointers on how this cool little machine currently runs for me.
 Read up on OpenCore, don't just blind copypasta EFI's, kexts, .plist files, pathces,
 when you find them on the wildweb.
