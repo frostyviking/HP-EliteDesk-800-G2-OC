@@ -2,8 +2,13 @@
 ## HP EliteDesk 800 G2 Mini
 
 Updated with macOS Monterey, looking good so far.
-I went from BigSur 11.4 to 11.6.1 and then upgraded to Monterey.
-Updates to kext, OpenCore, config + OS updates only took 2 hours.
+System actually feels a bit more snappy, makes that older i7-6700 feel fresh -unexpected.
+I went directly from BigSur 11.4 to 11.6.1 and then upgraded to Monterey.
+Updates to kext, OpenCore, config + OS updates.
+Commands line tools update then brew update.
+
+Total time taken about 2 hours.
+
 **[Dont forget to unzip "unzip_me.zip" in EFI/OC/Resources]** or you wont have a nice gui at boot.
 
 Go forth my brothers and sisters!
