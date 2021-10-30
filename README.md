@@ -24,6 +24,12 @@ Go forth my brothers and sisters!
 - WLAN/BT: BCM94360NG 2.4&5G WiFi Bluetooth 4.0
 - Audio: Realtec ALC221 Audio Codec
 
+## Awsome apps i use in all my hacks.
+- [Tiles](https://freemacsoft.net/tiles/)
+- [SensibleSideButtons](https://sensible-side-buttons.archagon.net)
+- [iStat Menus](https://bjango.com/mac/istatmenus/)
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+
 ## BIOS Settings
 - Advanced -> Boot Options
   - Startup Delay 5
@@ -77,7 +83,6 @@ Go forth my brothers and sisters!
 
 - Advanced -> Remote Management Options
   - I have not touched anything in here, running defaults AFAIK..
-
 
 
 ## Current OS
