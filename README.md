@@ -1,13 +1,12 @@
 ![HP EliteDesk 800 G2 Desktop Mini Business PC](https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c04876268.png)
 ## HP EliteDesk 800 G2 Mini
-(will update this when i have migrated to macOS Monterey -im in no hurry)
 
-These are pointers on how this cool little machine currently runs for me.
-Read up on OpenCore, don't just blind copypasta EFI's, kexts, .plist files, pathces,
-when you find them on the wildweb.
+Updated with macOS Monterey, looking good so far.
+I went from BigSur 11.4 to 11.6.1 and then upgraded to Monterey.
+Updates to kext, OpenCore, config + OS updates only took 2 hours.
+**[Dont forget to unzip "unzip_me.zip" in EFI/OC/Resources]** or you wont have a nice gui at boot.
 
-Open, read, put some brain's into it, learn something. You owe it to ALL creators, contributors before you.
-
+Go forth my brothers and sisters!
 
 ## Specs:
 - HP EliteDesk 800 65W G2 Desktop Mini PC
@@ -15,8 +14,7 @@ Open, read, put some brain's into it, learn something. You owe it to ALL creator
 - CPU: Intel® Core i7-6700 @ 3.40 GHz processor (65 W)
 - GPU: Intel® HD Graphics 530 (2 DisplayPorts + 1 VGA Port)
 - Memory: 2 x 8GB Samsung DDR4-2133 SODIMM
-- Pri Storage: Samsung 970 EVO Plus 250GB NVMe
-- Sec Storage: Crucial MX500 1TB SATA SSD
+- Storage: Crucial MX500 1TB SATA SSD
 - LAN: Intel® I219M GbE
 - WLAN/BT: BCM94360NG 2.4&5G WiFi Bluetooth 4.0
 - Audio: Realtec ALC221 Audio Codec
@@ -78,10 +76,10 @@ Open, read, put some brain's into it, learn something. You owe it to ALL creator
 
 
 ## Current OS
-- macOS Big Sur 11.4 (Build 20F71)
+- macOS Monterey 12.0.1 (Build 21A559)
 
 ## Bootloader
-- OpenCore 0.7.1
+- OpenCore 0.7.5
 
 ## Working:
 - Allmost everything, see below.
