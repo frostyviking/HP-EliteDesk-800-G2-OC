@@ -89,7 +89,7 @@ Go forth my brothers and sisters!
 - macOS Monterey 12.0.1 (Build 21A559)
 
 ## Bootloader
-- OpenCore 0.7.5
+- [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) 0.7.5
 
 ## Working:
 - Allmost everything, see below.
